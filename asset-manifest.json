@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lol2.textutility/static/css/main.d42bc59f.css",
+    "main.js": "/lol2.textutility/static/js/main.a40f0b78.js",
+    "static/js/787.cdcdca4b.chunk.js": "/lol2.textutility/static/js/787.cdcdca4b.chunk.js",
+    "static/media/Sun.svg": "/lol2.textutility/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "index.html": "/lol2.textutility/index.html",
+    "static/media/Moon.svg": "/lol2.textutility/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "main.d42bc59f.css.map": "/lol2.textutility/static/css/main.d42bc59f.css.map",
+    "main.a40f0b78.js.map": "/lol2.textutility/static/js/main.a40f0b78.js.map",
+    "787.cdcdca4b.chunk.js.map": "/lol2.textutility/static/js/787.cdcdca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42bc59f.css",
+    "static/js/main.a40f0b78.js"
+  ]
+}
